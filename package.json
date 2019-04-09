@@ -1,6 +1,6 @@
 {
   "name": "awsome-react-lighbox",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Awsome lightbox for react",
   "main": "src/awsome-react-lightbox.js",
   "scripts": {
