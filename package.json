@@ -1,0 +1,32 @@
+{
+  "name": "awsome-react-lighbox",
+  "version": "1.0.1",
+  "description": "Awsome lightbox for react",
+  "main": "src/awsome-react-lightbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushariscoolster/awsome-react-lighbox.git"
+  },
+  "keywords": [
+    "react",
+    "lightbox",
+    "awsome"
+  ],
+  "author": "Tushar Borole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushariscoolster/awsome-react-lighbox/issues"
+  },
+  "homepage": "https://github.com/tushariscoolster/awsome-react-lighbox#readme",
+  "dependencies": {
+    "iframe-lightbox": "^0.2.8",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "release-it": "^10.4.0"
+  }
+}
